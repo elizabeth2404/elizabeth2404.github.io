@@ -44,7 +44,7 @@
     let div = document.createElement('div');
     let btn = document.createElement('button');
     div.appendChild(btn);
-    btn.innerHTML = 'Calculate Monthly Rent!';
+    btn.innerHTML = 'Calculate Rent!';
     btn.setAttribute('id', 'final-btn');
     allRoomsForm.appendChild(div);
   }
@@ -100,7 +100,7 @@
     // rent result
     let rent = document.createElement('p');
     rent.setAttribute('id', 'rentRes' + roomNum);
-    rent.textContent = 'Rent for room ' + roomNum + ': TBD'; // TODO TACK ON FINAL PRICE AFTER
+    rent.textContent = 'Rent for room ' + roomNum + ': N/A'; // TODO TACK ON FINAL PRICE AFTER
     inputs.appendChild(rent);
 
     return card;
