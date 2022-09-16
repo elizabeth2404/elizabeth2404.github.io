@@ -32,15 +32,14 @@ input:valid + span::after {
 }
 
 #room-form > div {
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-top: 25px;
-  margin-bottom: 25px;
-  background-color: rgba(255, 239, 213, 0.747);
-  padding-left: 50px;
-  padding-right: 50px;
-  border-radius: 10%;
-  padding: 1vh;
+  margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: rgba(255, 239, 213, 0.747);
+    padding-left: 10%;
+    padding-right: 10%;
+    border-radius: 10%;
 }
 
 h2 {
