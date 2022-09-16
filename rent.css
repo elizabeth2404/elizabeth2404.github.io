@@ -36,7 +36,7 @@ input:valid + span::after {
   margin-right: 200px;
   margin-top: 25px;
   margin-bottom: 25px;
-  background-color:papayawhip;
+  background-color: rgba(255, 239, 213, 0.747);
   padding-left: 50px;
   padding-right: 50px;
   border-radius: 10%;
@@ -50,7 +50,7 @@ h2 {
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  font-weight: 100;
+  font-weight: 150;
 }
 
 
