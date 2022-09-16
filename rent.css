@@ -68,6 +68,7 @@ h3 {
 #prop-form, h3 {
   margin-left: 100px;
   margin-right: 100px;
+  font-weight: 400;
 }
 
 label {
